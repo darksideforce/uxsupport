@@ -14,12 +14,6 @@
   ],
   "main": "./client/out/extension",
   "contributes": {
-    "commands": [
-      {
-        "command": "uxsupport.helloWorld",
-        "title": "Hello World"
-      }
-    ],
     "languages": [
       {
         "id": "ux",
